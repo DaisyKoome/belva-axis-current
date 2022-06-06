@@ -1,0 +1,94 @@
+.container-scroll {
+    margin: 0;
+    height: calc(18vh);
+    background-color: #f3f6f9;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+	display: flex;
+}
+
+.items-scroll {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.img-scroll {
+    width: 120px;
+    height: 45px;
+    object-fit: contain;
+}
+
+.container-scroll .items-scroll {
+  display: flex;
+  align-items: center;
+  width: fit-content;
+  animation: carouselAnim 40s infinite alternate linear;
+}
+
+.container-scroll .items-scroll .entry-scroll {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+  width: 150px;
+  background: white;
+  margin: 1em;
+  padding: 0.5em;
+  border-radius: 10px;
+  box-shadow: 4px 4px 5px 0px rgba(0, 0, 0, 0.05);
+}
+.container-scroll .items-scroll .entry-scroll p {
+  text-align: center;
+  padding: 1em;
+}
+.container-scroll .items-scroll .entry-scroll p.name-scroll {
+  font-weight: bold;
+}
+@keyframes carouselAnim {
+  from {
+    transform: translate(0, 0);
+  }
+  to {
+    transform: translate(calc(-100% + (5*278px)));
+  }
+}
+@media only screen and (max-width: 768px) {
+  .container-scroll .items-scroll {
+    animation: carouselAnim 45s infinite alternate linear;
+  }
+
+  .container-scroll {
+    margin: 0;
+    height: calc(18vh);
+    background-color: #f3f6f9;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+  @keyframes carouselAnim {
+    from {
+      transform: translate(0, 0);
+    }
+    to {
+      transform: translate(calc(-100% + (2*200px)));
+    }
+  }
+  
+}
+.container-scroll .faders-scroll {
+  width: 100%;
+  position: absolute;
+  height: 100%;
+}
+.container-scroll .faders-scroll .left-scroll, .container-scroll .faders-scroll .right-scroll {
+  background: linear-gradient(to right, whitesmoke 0%, rgba(255, 255, 255, 0) 100%);
+  width: 20%;
+  height: 100%;
+  position: absolute;
+  z-index: 200;
+}
+.container-scroll .faders-scroll .right-scroll {
+  right: 0;
+  background: linear-gradient(to left, whitesmoke 0%, rgba(255, 255, 255, 0) 100%);
+}

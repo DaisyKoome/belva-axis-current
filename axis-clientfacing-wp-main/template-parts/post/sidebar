@@ -1,0 +1,49 @@
+<aside class="sidebar mt-5 mt-lg-0">
+                        <!-- Widget Search Begin -->
+                        <div class="widget widget_search">
+                            <?php get_search_form();?>
+                        </div>
+                        <!-- Widget Search End -->
+
+                        <!-- Widget Related Post Begin -->
+                        <div class="widget widget_related_post">
+                            <!-- Widget Title Begin  -->
+                            <div class="widget-title">
+                                <h4>Recent Posts</h4>
+                            </div>
+                            <!-- Widget Title End  -->
+
+                            <?php if(have_posts()) : ?>
+
+                                <?php 
+
+                                $all_posts = new WP_Query( array( 'posts_per_page' => 5, 'cat' => '9') );
+
+                                while( $all_posts->have_posts() ):
+
+                                $all_posts->the_post();?>
+
+                                    <!-- Single Related Post Begin -->
+                                    <div class="single-post">
+                                        <div class="post-content">
+                                            <span class="posted-on"><?php echo get_the_date('d M Y');?></span>
+                                            <h5><a href="<?php the_permalink();?>"><?php the_title();?></a></h5>
+                                        </div>
+                                    </div>
+                                    <!-- Single Related Post End -->
+
+                            <?php endwhile;?>
+
+                            <?php wp_reset_postdata();?>
+
+                            <?php else:?>
+
+                            <h4 class="text-center"><?php __('No Posts Found')?></h4>
+
+                            <?php endif;?>
+
+                           
+                        </div>
+                        <!-- Widget Related Post End -->
+
+                    </aside>

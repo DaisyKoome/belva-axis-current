@@ -1,0 +1,1166 @@
+/* CSS by Daisy */
+.page-id-6 .content {
+    background-color: #f8fafc;
+    padding: 15px 15px;
+    border-radius: 0px 0px 16px 16px;
+    height: 360px !important;
+}
+
+/* .captn {
+    height: 80px !important;
+}
+
+.page-id-6 .laptops li:nth-child(1) .captn {
+    height: 55px !important;
+}
+
+.page-id-6 .laptops li:nth-child(2) .captn {
+    height: 55px !important;
+}
+
+.page-id-6 .laptops li:nth-child(3) .captn {
+    height: 55px !important;
+}
+
+.page-id-6 .laptops li:nth-child(1) .content {
+    height: 290px !important;
+}
+
+.page-id-6 .laptops li:nth-child(2) .content {
+    height: 290px !important;
+}
+
+.page-id-6 .laptops li:nth-child(3) .content {
+    height: 290px !important;
+} */
+
+iframe {
+    margin: auto;
+    display: table;
+}
+
+.editor ul ol {
+	padding-left:20px;
+}
+
+.editor h2 {
+    font-size: 28px;
+}
+
+img.alignnone.size-medium.wp-image-206 {
+    width: 65%;
+    margin: auto;
+}
+
+img.alignnone.size-medium.wp-image-207 {
+    width: 45% !important;
+    margin: auto;
+}
+
+.postid-203 img.wp-image-364 {
+    width: 30%;
+		height: auto;
+    margin: auto;
+}
+
+img.alignnone.size-medium.wp-image-208 {
+    width: 75%;
+    margin: auto;
+}
+
+img.alignnone.size-medium.wp-image-209 {
+    width: 70%;
+    margin: auto;
+}
+
+img.alignnone.size-medium.wp-image-210 {
+    width: 70%;
+    margin: auto;
+}
+
+img.alignnone.size-medium.wp-image-211 {
+    width: 60%;
+    margin: auto;
+}
+
+.postid-203 img.wp-image-211 {
+    width: 50%;
+		height: auto;
+    margin: auto;
+}
+
+img.alignnone.size-medium.wp-image-212 {
+    width: 30% !important;
+    margin: auto;
+}
+
+.postid-203 img.wp-image-212 {
+    width: 35%;
+		height: auto;
+    margin: auto;
+}
+
+img.alignnone.size-medium.wp-image-213 {
+    width: 75%;
+    margin: auto;
+}
+
+img.alignnone.size-medium.wp-image-214 {
+    width: 65%;
+    margin: auto;
+}
+
+.postid-203 img.wp-image-368 {
+    width: 30%;
+		height: auto;
+    margin: auto;
+}
+
+img.alignnone.size-medium.wp-image-215 {
+    width: 65%;
+    margin: auto;
+}
+
+.postid-203 img.wp-image-378 {
+    width: 30%;
+		height: auto;
+    margin: auto;
+}
+
+img.alignnone.size-medium.wp-image-216 {
+    width: 40%;
+    margin: auto;
+}
+
+.postid-203 img.wp-image-381 {
+    width: 35%;
+		height: auto;
+    margin: auto;
+}
+
+img.alignnone.size-medium.wp-image-217 {
+    width: 30%;
+    margin: auto;
+}
+
+.postid-203 img.wp-image-384 {
+    width: 40%;
+		height: auto;
+    margin: auto;
+}
+
+.postid-203 img.wp-image-389 {
+    width: 60%;
+		height: auto;
+    margin: auto;
+}
+
+img.alignnone.size-medium.wp-image-218 {
+    width: 60%;
+    margin: auto;
+}
+
+.postid-203 img.wp-image-216 {
+    width: 35%;
+		height: auto;
+    margin: auto;
+}
+
+.postid-203 img.wp-image-217 {
+    width: 20%;
+		height: auto;
+    margin: auto;
+}
+
+.postid-203 img.wp-image-218 {
+    width: 60%;
+		height: auto;
+    margin: auto;
+}
+
+.postid-203 p:last-child {
+    display: none;
+}
+
+@media only screen and (max-width: 1100px){
+h3 {
+    font-size: 25px !important;
+    line-height: 46px;
+    padding: 0 0 18px;
+	}
+}
+
+@media only screen and (max-width: 900px){
+h3 {
+    font-size: 35px;
+    text-align: left;
+}
+}	
+
+@media only screen and (max-width: 768px){
+h2 {
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+}
+}
+
+@media only screen and (max-width: 768px){
+h3 {
+    font-size: 30px;
+    line-height: 30px;
+    text-align: center !important;
+    }
+}
+
+/*Added on Labour Day weekend*/
+.page-id-6 .btn-join {
+    margin: 0 0 0 0px;
+}
+
+.page-id-6 button.btn-3 {
+    margin-left: 10px;
+}
+
+#size_select {
+    width: 400px;
+    height: 50px;
+    margin: 1em 0;
+    border: 1px solid rgba(34,36,38,.15);
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border-radius: 0.5rem;
+    font-family: satoshimedium, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 34px;
+    margin: 40px 0;
+}
+
+.articles p {
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.articles ul li {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: inline-block;
+    padding: 0 0 15px 14px;
+    vertical-align: text-top;
+    width: 50%;
+}
+
+/* End of CSS by Daisy */
+
+.fill-inner {
+    padding: 40px;
+    background: linear-gradient(45deg, #e9fcff 30%, #fdf2ed 60%);
+}
+
+.mobile-partners .owl-nav button.owl-prev {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 43px !important;
+    position: absolute;
+    left: 8px;
+    top: 24%;
+    margin: 0;
+    font-size: 18px;
+    border-radius: 100%;
+    font-weight: bolder;
+    background-color: #e1b641;
+    color: #fff;
+}
+
+
+.mobile-partners .owl-nav button.owl-next {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 43px !important;
+    position: absolute;
+    right: 8px;
+    top: 24%;
+    margin: 0;
+    font-size: 18px !important;
+    border-radius: 100%;
+    font-weight: bolder;
+    background-color: #e1b641;
+    color: #fff;
+}
+
+.request-demo{
+	height: 49px!important;
+    line-height: 42px!important;
+    border: 3px solid #e1b641!important;
+    background-color: transparent!important;
+    color: black!important;
+}
+
+.request-demo:hover{
+	height: 49px!important;
+    line-height: 42px!important;
+    border: none!important;
+    background-color: black!important;
+    color: white!important;
+	max-width: 237px!important ;
+	
+}
+
+date .col.right {
+    text-align: right;
+    text-transform: uppercase !important ;
+}
+
+button a {
+    color: #fff !important;
+}
+
+@media only screen and (max-width: 650px) {
+  .two .btn {
+    display: block;
+    padding: 0px 35px;
+  }
+
+  .transparent-top {
+    display: block;
+    margin: 20px auto;
+  }
+}
+	
+.inbox-home a {
+    color: black;
+}	
+
+a.inbox-chatbot:hover {
+    color: black !important;
+}
+
+h2 {
+		font-size: 28px;
+}
+
+h3 {
+		font-size: 25px;
+}
+
+@media only screen and (max-width: 375px) {
+    .page-id-6 .offset {
+        padding-top: 105px;
+    }
+	
+	.tele {
+    padding: 0 0 0 4px;
+    font-size: 12px;	
+    line-height: 20px;
+} 
+}
+
+@media only screen and (max-width: 800px){
+.new {
+    width: 100%;
+    display: inline-grid;
+    height: 100px;
+    padding: 10px 5px 10px 5px;
+	    margin-left: 15px;
+}
+}
+
+@media only screen and (max-width: 650px){
+.two .btn {
+    display: flex;
+    padding: 0px 35px;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+}
+
+@media (min-width: 320px) and (max-width: 480px){
+	section.inside-pages-topper.blogs {
+    height: 140px;
+}
+.page-id-130 section.products-cases.padding-top-bottom {
+    background-image: none !important;
+}	
+	
+.package:nth-child(even) {
+    background: #e9e9e9;
+    padding: 30px;
+    background-image: none !important;
+}	
+
+.features {
+    background-image: none !important;
+}		
+	
+.page-id-130 section.communication {
+    background-image: none !important;
+}
+
+.page-id-105, .page-id-150 section.things.padding-top-bottom {
+    background-image: none !important;
+}
+
+section.blogs-section {
+    background-image: none !important;
+}
+
+section.products-cases.bg-blue.padding-top-bottom {
+    background-image: none !important;
+}
+
+.page-id-150 section.communication {
+    background-image: none !important;
+}
+
+section.conts.padding-top-bottom {
+    background-image: none !important;
+}	
+
+.socials {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+form#forminator-module-973 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100% !important;
+}
+	.new {
+    width: 100%;
+    display: inline-grid;
+    height: 100px;
+    padding: 10px 5px 10px 5px;
+		    margin-left: 15px;
+}
+	
+		.tele {
+    padding: 0 0 0 4px;
+    font-size: 12px;	
+    line-height: 20px;
+}
+	
+	.page-id-6 .customer-banner.offset {
+    padding-bottom: 20px !important;
+}
+	
+			.scale-animation{
+		transform: unset !important;
+	}
+	
+    .page-id-6 .offset {
+        padding-top: 95px;
+    }
+	
+	.blog-details p, ul {
+    overflow: hidden;
+    font-size: 19px !important;
+    line-height: 25px;
+}
+	
+	
+	.blog-title {
+    height: 95px !important;
+    text-align: center;
+    color: black;
+    line-height: 1.3;
+    padding-top: 0px !important;
+    margin-top: 95px !important;
+    margin-bottom: 30px;
+	}
+.page-id-44 .blue {
+    background-color: #e1b641;
+    margin-top: 20px;
+}
+
+.footer h2.ttle.open {
+    font-size: 17px;
+    padding-bottom: 3px;
+    text-align: left;
+    margin-bottom: 0;
+    padding: 25px 45px 25px 40px;
+    position: relative;
+    -webkit-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    background-color: #e1b641 !important;
+    border-bottom: 1px solid #fff;
+}	
+
+.page-id-46 .col.right.bner img {
+    position: absolute;
+    margin-top: -180px;
+    margin-left: -60px;
+}
+
+.page-id-46 .col.left .primary-btn {
+    font-size: 15px;
+    margin-right: -150px;
+    margin-left: 60px;
+    margin-bottom: 20px;
+}
+
+.page-id-46 p {
+    font-size: 16px;
+    line-height: 24px;
+}
+
+/*     .page-id-46 html, body {
+        margin: 0px;
+        padding: 0px;
+        overflow-x: hidden;
+        width: 100%;
+        height: 100%;
+    }
+	 */
+.page-id-130 #size_select {
+    width: 320px;
+	}
+	
+	.page-id-130 .table_description.footable_description span {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.page-id-6 span.tele {
+    text-align: center;
+	    padding-top: 5px;
+}
+
+.blog-details-content ul {
+    font-family: "satoshiregular", sans-serif !important;
+    font-style: normal !important;
+    font-weight: normal !important;
+    font-size: 18px !important;
+    line-height: 23px !important;
+    color: #000 !important;
+    list-style: disc !important;
+    line-height: 25px !important;
+		margin-left:20px !important;
+		margin-bottom: 20px !important;
+}
+
+.blog-details-content ol {
+		list-style: auto !important;
+    font-family: "satoshiregular", sans-serif !important;
+    font-style: normal !important;
+    font-weight: normal !important;
+    font-size: 18px !important;
+    line-height: 23px !important;
+    color: #000 !important;
+    /* list-style: disc; */
+    line-height: 25px !important;
+    margin-bottom: 20px !important;
+    margin-left: 20px !important;
+}
+}
+
+@media only screen and (max-width: 900px){
+
+.page-id-130 section.products-cases.padding-top-bottom {
+    background-image: none !important;
+}
+	
+.page-id-130 section.communication {
+    background-image: none !important;
+}
+
+.page-id-105, .page-id-150 section.things.padding-top-bottom {
+    background-image: none !important;
+}
+
+section.blogs-section {
+    background-image: none !important;
+}
+
+section.products-cases.bg-blue.padding-top-bottom {
+    background-image: none !important;
+}
+
+.page-id-150 section.communication {
+    background-image: none !important;
+}
+
+section.conts.padding-top-bottom {
+    background-image: none !important;
+}		
+	
+.feature-btn .primary-btn {
+    font-size: 15px;
+    margin-left: auto !important;
+    margin-right: auto;
+    display: block;
+}
+}
+
+.page-id-44 .blue {
+    background-color: #e1b641;
+}
+
+#gform_submit_button_1 {
+    background-color: #e1b641;
+    height: 40px;
+    line-height: 37px;
+    width: 100%;
+    margin: 20px 0 0 0;
+    max-width: 100%;
+    font-family: "satoshiregular", Arial, sans-serif;
+    font-size: 17px;
+    border: none;
+    color: white;
+    border-radius: 30px;
+}
+	
+.page-id-122 
+.editor p {
+			font-family: "satoshiregular", Arial, SansSerif !important;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: #000;
+	  line-height: 25px;
+}
+
+.page-id-122 .editor ul {
+		font-family: "satoshiregular", Arial, SansSerif !important;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: #000;
+	  line-height: 25px;
+    list-style: disc;
+    margin-left: 20px;
+}
+
+.page-id-119 .editor p {
+			font-family: "satoshiregular", Arial, SansSerif !important;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: #000;
+	    line-height: 25px;
+}
+
+.page-id-119 .editor ul {
+		font-family: "satoshiregular", Arial, SansSerif !important;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: #000;
+	    line-height: 25px;
+    list-style: disc;
+    margin-left: 20px;
+}
+
+/* .single-articles form{
+	display:none !important;
+} */
+
+.blog-title {
+    height: 60px;
+/*     text-align: left !important; */
+    color: black;
+    line-height: 1.3;
+    padding-top: 20px;
+    margin-top: 80px !important;
+    margin-bottom: 30px;
+}
+
+.page-id-6 .customer-banner h1 {
+    font-size: 40px;
+    line-height: 42px;
+}
+
+.page-id-6 .customer-banner p {
+		font-size: 24px;
+    line-height: 28px;
+    width: 100%;
+}
+
+h3.table_title.footable_title {
+    font-size: 22px !important;
+    padding-bottom: 0px !important;
+}
+
+.table_description.footable_description {
+    font-family: satoshimedium, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+#size_select {
+    margin: 10px 0 !important;
+}
+
+.page-id-6 section.partners.padding-top-bottom {
+    padding: 20px 0px 0px 0px;
+}
+
+.page-id-698 h2.title.centre {
+    margin-top: 60px;
+}
+
+
+/* .sidebar {
+    position: sticky;
+    top: 22% !important;
+}
+ */
+.animation {
+    margin-top: -150px;
+}
+
+@media only screen and (max-width: 900px){
+	
+.package:nth-child(even) {
+    background: #e9e9e9;
+    padding: 30px;
+    background-image: none !important;
+}	
+
+.features {
+    background-image: none !important;
+}	
+	
+.customer-banner .col.left {
+    width: 100%;
+    padding-right: 0px;
+    display: block;
+    height: 800px;
+}
+
+.animation {
+    margin-top: -200px;
+    display: grid;
+}
+	
+.wrapper {
+    margin-bottom: 25px;
+}
+
+	
+}
+
+.scale-animation{
+	transform: scale(1.25, 1.25);
+}
+
+.offset {
+    padding-top: 145px;
+}
+
+.page-id-119 .editor ul {
+    font-family: "satoshiregular", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000;
+    list-style: disc;
+    line-height: 25px;
+		margin-left:20px;
+}
+
+.page-id-119 .editor ol {
+		list-style: auto;
+    font-family: "satoshiregular", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000;
+    /* list-style: disc; */
+    line-height: 25px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.blog-details-content ul {
+    font-family: "satoshiregular", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000;
+    list-style: disc;
+    line-height: 25px;
+		margin-left:20px;
+		margin-bottom: 20px;
+}
+
+.blog-details-content ol {
+		list-style: auto;
+    font-family: "satoshiregular", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000;
+    /* list-style: disc; */
+    line-height: 25px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.blog-details p {
+	font-size: 20px !important;
+}
+
+ul.list-inline {
+    font-size: 20px !important;
+}
+
+.page-id-778 .padding-top-bottom {
+    padding: 0px;
+}
+
+.page-id-778 .laptops {
+	padding-bottom:0px !important;
+	padding-top: 30px;
+}
+
+.page-id-91 .content {
+
+    height: 330px;
+}
+
+.page-id-105 .content {
+
+    height: 360px !important;
+}
+
+
+.new {
+    width: 90%;
+}
+
+button.btn.btn-secondary.new-b {
+    background-color: black;
+    color: #e1b641;
+}
+
+.primary-btn {
+    height: 40px;
+    line-height: 32px;
+}
+
+#btn-start-features {
+	margin-left: 20px;
+}
+
+.btn {
+    padding: 0px 12px;
+}
+
+.request-demo {
+    height: 40px!important;
+    line-height: 32px!important;
+}
+
+.request-demo:hover {
+    height: 40px!important;
+    line-height: 32px!important;
+}
+
+#cta-start {
+    height: 40px;
+    line-height: 32px;
+		width: 120px;
+}
+
+#cta-demo {
+    width: 145px;
+}
+
+#main_nav .sub-menu li a:before {
+    display: flex;
+}	
+
+.products-cases p {
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.products-cases h5 {
+    font-size: 20px;
+}
+
+
+.accordion .title {
+    font-size: 20px;
+    line-height: 26px;
+}
+
+.accordion .desc p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+.products .col-content p {
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.chat-box-heading {
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 40px;
+    padding: 0 0 15px;
+}
+
+p {
+    font-size: 20px;
+    line-height: 28px;
+}
+
+div#res-menu {
+    width: 120px !important;
+    left: 800px !important;
+		padding: 15px 0px 35px 10px!important;
+}
+
+div#res-menu li a {
+    display: inline-block !important;
+}
+
+li#blog-menu {
+    position: absolute;
+    top: 60px;
+}
+
+.products-cases ul li {
+    padding: 20px 0px;
+
+}
+
+input#forminator-field-name-1 {
+    padding: 12px 12px 14px 12px !important;
+    border: 1px solid #c5cbd0 !important;
+    background-color: #fff !important;
+    color: #003b4c !important;
+    font-size: 14px !important;
+    width: 100% !important;
+    resize: vertical !important;
+    font-family: "satoshiregular", Arial, sans-serif !important;
+    font-style: italic;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input#forminator-field-email-1 {
+    padding: 12px 12px 14px 12px !important;
+    border: 1px solid #c5cbd0 !important;
+    background-color: #fff !important;
+    color: #003b4c !important;
+    font-size: 14px !important;
+    width: 100% !important;
+    resize: vertical !important;
+    font-family: "satoshiregular", Arial, sans-serif !important;
+    font-style: italic;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input#forminator-field-text-1 {
+    padding: 12px 12px 14px 12px !important;
+    border: 1px solid #c5cbd0 !important;
+    background-color: #fff !important;
+    color: #003b4c !important;
+    font-size: 14px !important;
+    width: 100% !important;
+    resize: vertical !important;
+    font-family: "satoshiregular", Arial, sans-serif !important;
+    font-style: italic;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+textarea#forminator-field-textarea-1 {
+    padding: 12px 12px 14px 12px !important;
+    border: 1px solid #c5cbd0 !important;
+    background-color: #fff !important;
+    color: #003b4c !important;
+    font-size: 14px !important;
+    width: 100% !important;
+    resize: vertical !important;
+    font-family: "satoshiregular", Arial, sans-serif !important;
+    font-style: italic;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+form#forminator-module-973 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+}
+
+label.forminator-label {
+    display: none !important;
+}
+
+button.forminator-button.forminator-button-submit {
+    background-color: #e1b641 !important;
+    height: 40px !important;
+    line-height: 37px !important;
+    width: 100% !important;
+    /* margin: 20px 0 0 0; */
+    max-width: 100% !important;
+    font-family: "satoshiregular", Arial, sans-serif !important;
+    font-size: 17px !important;
+    border: none !important;
+    color: white !important;
+    border-radius: 30px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    text-align: center;
+    /* display: flex; */
+    /* padding-bottom: 10px !important; */
+    /* margin-bottom: 10px !important; */
+    padding: 0px !important;
+}
+
+.features {
+    background-image: url(https://clients.belva.co.ke/axis/wp-content/uploads/2022/06/bg-p2.png);
+}
+
+
+.inside-pages-topper h2 {
+    padding: 0px 0px 0px 0px;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+	  line-height: 36px;
+}
+
+.inside-pages-topper {
+    background: linear-gradient(45deg, #e9fcff 30%, #fdf2ed 60%);
+    height: 80px;
+}
+
+.package:nth-child(even) {
+    background: #e9e9e9;
+    padding: 30px;
+    background-image: url(https://clients.belva.co.ke/axis/wp-content/uploads/2022/06/features-bg-2.png);
+    /* background-repeat: no-repeat; */
+    /* display: flex; */
+}
+
+
+.col-content {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.page-id-130 section.products-cases.padding-top-bottom {
+    background-image: url(https://clients.belva.co.ke/axis/wp-content/uploads/2022/06/features-bg-3.png);
+}
+
+
+span.tele:hover {
+    color: #000;
+}
+
+span.icon-facebook {
+    color: #e1b641;
+    margin-left: -5px;
+    font-size: 20px;
+}
+
+span.icon-twitter {
+    color: #e1b641;
+    margin-left: 6px;
+    font-size: 20px;
+}
+
+span.icon-linkedin2 {
+    color: #e1b641;
+    margin-left: 6px;
+    font-size: 20px;
+}
+
+.page-id-130 section.communication {
+    background-image: url(https://clients.belva.co.ke/axis/wp-content/uploads/2022/06/features-bg-3.png);
+}
+
+.page-id-105, .page-id-150 section.things.padding-top-bottom {
+    background-image: url(https://clients.belva.co.ke/axis/wp-content/uploads/2022/06/page-bg.png) ;
+}
+
+section.blogs-section {
+    background-image: url(https://clients.belva.co.ke/axis/wp-content/uploads/2022/06/page-bg.png);
+}
+
+section.products-cases.bg-blue.padding-top-bottom {
+    background-image: url(https://clients.belva.co.ke/axis/wp-content/uploads/2022/06/features-bg-2.png);
+}
+
+.page-id-150 section.communication {
+    background-image: url(https://clients.belva.co.ke/axis/wp-content/uploads/2022/06/page-bg.png);
+}
+
+section.conts.padding-top-bottom {
+    background-image: url(https://clients.belva.co.ke/axis/wp-content/uploads/2022/06/contacts-bg-6.png) !important;
+}
+
+.page-id-150 .content {
+    background-color: #f3f6f9;
+	  height: 385px !important;
+}
+
+.page-id-150 iframe {
+    margin-top: 10px;
+    display: block;
+    width: 480px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.page-id-150 .captn {
+    display: block;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.page-id-150 span.left {
+    display: none;
+}
+
+.page-id-150 .laptops ul li {
+    box-sizing: border-box;
+    display: inline-block;
+    padding: 20px 20px 0;
+    vertical-align: text-top;
+    width: 50%;
+}
+
+@media only screen and (max-width: 768px){
+.laptops ul li {
+    max-width: 100%;
+    width: 100% !important;
+}
+	
+.page-id-150 iframe {
+    margin-top: 10px;
+    display: block;
+    width: 280px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}	
+}
+
+.products-cases h5 {
+    font-size: 20px;
+    line-height: 25px !important;
+}

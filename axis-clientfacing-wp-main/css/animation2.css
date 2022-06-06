@@ -1,0 +1,77 @@
+  #container {
+    width: 200px;
+    height: 200px;
+    margin: -250px auto;
+    border: 1.5px solid #925b3e;
+    position: relative;
+    border-radius: 50%;
+    animation: spin 30s linear infinite;
+  }
+  #container2 {
+    width: 200px;
+    height: 200px;
+    margin: 0px auto;
+    border: 0px solid #925b3e;
+    position: relative;
+    border-radius: 50%;
+    animation: spin 30s linear infinite reverse;
+  }
+
+  #container3 {
+    width: 300px;
+    height: 300px;
+    margin: 0px auto;
+    border: 1.5px solid #925b3e;
+    position: relative;
+    border-radius: 50%;
+    animation: spin 30s linear infinite;
+  }
+  .item {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 50%;
+    position: absolute;
+    animation: spin 30s linear infinite reverse;
+  }
+
+  .item3 {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 50%;
+    position: absolute;
+    animation: spin 30s linear infinite reverse;
+  }
+
+  .c1 {
+    background:#54cf61;
+  }
+
+  .d1 {
+    background:#54cf61;
+  }
+
+  .c2 {
+    background:#ffffff;
+  }
+
+  .d2 {
+    background:#ffffff;
+  }
+
+  .c3 {
+    background:#2aa1db;
+  }  
+
+  .d3 {
+    background:#2aa1db;
+  }
+
+  @keyframes spin {
+    100% {
+      transform: rotate(1turn);
+    }
+  }

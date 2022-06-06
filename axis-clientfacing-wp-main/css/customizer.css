@@ -834,7 +834,7 @@ ul.list-inline {
 
 .page-id-105 .content {
 
-    height: 360px !important;
+    height: 370px !important;
 }
 
 
@@ -922,9 +922,9 @@ p {
 }
 
 div#res-menu {
-    width: 120px !important;
+    width: 145px !important;
     left: 800px !important;
-		padding: 15px 0px 35px 10px!important;
+    padding: 15px 0px 50px 10px!important;
 }
 
 div#res-menu li a {
@@ -933,7 +933,7 @@ div#res-menu li a {
 
 li#blog-menu {
     position: absolute;
-    top: 60px;
+    top: 58px;
 }
 
 .products-cases ul li {
@@ -1029,7 +1029,7 @@ button.forminator-button.forminator-button-submit {
 }
 
 .features {
-    background-image: url(https://clients.belva.co.ke/axis/wp-content/uploads/2022/06/bg-p2.png);
+    background-image: url(https://clients.belva.co.ke/axis/wp-content/uploads/2022/06/bg-home-4-2.png);
 }
 
 
@@ -1093,7 +1093,7 @@ span.icon-linkedin2 {
 }
 
 .page-id-105, .page-id-150 section.things.padding-top-bottom {
-    background-image: url(https://clients.belva.co.ke/axis/wp-content/uploads/2022/06/page-bg.png) ;
+    background-image: url(https://clients.belva.co.ke/axis/wp-content/uploads/2022/06/p-bg-2.png) ;
 }
 
 section.blogs-section {
@@ -1114,7 +1114,7 @@ section.conts.padding-top-bottom {
 
 .page-id-150 .content {
     background-color: #f3f6f9;
-	  height: 385px !important;
+	  height: 395px !important;
 }
 
 .page-id-150 iframe {
@@ -1163,4 +1163,18 @@ section.conts.padding-top-bottom {
 .products-cases h5 {
     font-size: 20px;
     line-height: 25px !important;
+}
+
+.content {
+    background-color: #f8fafc;
+    padding: 25px 25px;
+    border-radius: 0px 0px 16px 16px;
+}
+
+#main_nav .sub-menu li a span {
+    font-family: "satoshimedium", sans-serif;
+    font-weight: 300;
+    width: 100% !important;
+    text-align: left;
+    white-space: nowrap;
 }

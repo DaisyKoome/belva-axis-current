@@ -1072,19 +1072,18 @@ span.tele:hover {
 
 span.icon-facebook {
     color: #e1b641;
-    margin-left: -5px;
+    margin-right: 5px;
     font-size: 20px;
 }
 
 span.icon-twitter {
     color: #e1b641;
-    margin-left: 6px;
+    margin-right: 5px;
     font-size: 20px;
 }
 
 span.icon-linkedin2 {
     color: #e1b641;
-    margin-left: 6px;
     font-size: 20px;
 }
 
@@ -1177,4 +1176,27 @@ section.conts.padding-top-bottom {
     width: 100% !important;
     text-align: left;
     white-space: nowrap;
+}
+
+span.icon-facebook:hover {
+    color: #000000 !important;
+    margin-right: 5px;
+    font-size: 20px;
+    text-decoration: none !important;
+    outline: none !important;
+}
+
+span.icon-twitter:hover {
+    color: #000000 !important;
+    margin-right: 5px;
+    font-size: 20px;
+    text-decoration: none !important;
+    outline: none !important;
+}
+
+span.icon-linkedin2:hover {
+    color: #000000 !important;
+    font-size: 20px;
+    text-decoration: none !important;
+    outline: none !important;
 }
